@@ -1,0 +1,27 @@
+{
+  "name": "realtimechat",
+  "version": "1.0.0",
+  "description": "Socket.io powered node chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasarianudeep/RealtimeChat---socket.io.git"
+  },
+  "keywords": [
+    "chat",
+    "socket"
+  ],
+  "author": "anudeep dasari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasarianudeep/RealtimeChat---socket.io/issues"
+  },
+  "homepage": "https://github.com/dasarianudeep/RealtimeChat---socket.io#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
